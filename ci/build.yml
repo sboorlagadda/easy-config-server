@@ -9,6 +9,7 @@ image_resource:
 
 inputs:
 - name: easy-config-server
+- name: configserver-version
 
 outputs:
 - name: builds
